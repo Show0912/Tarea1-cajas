@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+}
+.uno{
+    background-color: #3C22F5;
+    margin: 15px;
+    padding: 50px;
+}
+.dos{
+    background-color: #C622F5;
+    margin: 15px;
+    padding: 50px;
+}
+.tres{
+    background-color: #8122F5;
+    margin: 15px;
+    padding: 50px;
+}
+.cuatro{
+    background-color: #224CF5;
+    margin: 15px;
+    padding: 50px;
+}
+.cinco{
+    background-color: #F522CC;
+    margin: 15px;
+    padding: 50px;
+}
+.seis{
+    background-color: #AE74F5;
+    margin: 15px;
+    padding: 50px;
+}
+.siete{
+    background-color: rgb(0, 94, 255);
+    margin: 15px;
+    padding: 50px;
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+}
